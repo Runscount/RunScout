@@ -1,1 +1,6 @@
 venv/
+
+# --- Frontend (trailrouter-lite) ---
+trailrouter-lite/node_modules/
+trailrouter-lite/dist/
+trailrouter-lite/.vite/
